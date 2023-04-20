@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Settings"
+    android:background="@drawable/gradientbg"
+    android:orientation="vertical">
+
+
+
+    <Button
+        android:id="@+id/rate_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_menu_edit"
+        android:text="Rate and Review"
+        android:textAlignment="textStart"
+        android:layout_marginTop="50sp"
+
+        />
+
+    <Button
+        android:id="@+id/feedback_button"
+        android:layout_marginTop="25sp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@android:drawable/ic_menu_help"
+        android:text="Feedback"
+        android:textAlignment="textStart"/>
+
+    <Button
+        android:id="@+id/about_us_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:layout_marginTop="25sp"
+        android:drawableLeft="@android:drawable/ic_menu_info_details"
+        android:text="About Us"/>
+
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:layout_marginTop="25sp"
+        android:onClick="clickexit"
+        android:layout_marginBottom="25sp"
+        android:drawableLeft="@android:drawable/ic_lock_power_off"
+        android:drawableTint="#D2D2D2"
+        android:text="  Log Out"/>
+
+
+</LinearLayout>
+
+
+
+

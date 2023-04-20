@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradientbg"
+    tools:context=".MainActivity2">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Liked Images"
+        android:textSize="26dp"
+        android:textColor="#EFE8A6"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="40dp"
+        android:textStyle="bold"
+        android:background="@drawable/gradientnature"
+        android:layout_marginTop="0dp"/>
+
+    <LinearLayout
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="263dp"
+            android:layout_height="181dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="70dp"
+            android:src="@drawable/carimg1"
+
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="263dp"
+            android:layout_height="181dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="70dp"
+            android:src="@drawable/carimg2"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="263dp"
+            android:layout_height="181dp"
+            android:layout_gravity="center"
+            android:src="@drawable/carimg3"
+            android:layout_marginLeft="70dp"
+
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="263dp"
+            android:layout_height="181dp"
+            android:layout_gravity="center"
+            android:src="@drawable/carimg4"
+            android:layout_marginLeft="70dp"
+
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

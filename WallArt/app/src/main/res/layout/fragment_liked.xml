@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradienttrain"
+    tools:context="LikedFragment">
+
+    <TextView
+        android:id="@+id/text123"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        android:padding="10dp"
+
+        android:text="Liked Images"
+        android:textColor="#EFE8A6"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        />
+
+
+
+
+
+</RelativeLayout>
