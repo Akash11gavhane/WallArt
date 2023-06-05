@@ -37,7 +37,13 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 This project uses the following Pexels Api for Images:
 
-- [Pexels]()
+- [Pexels](https://www.pexels.com/)
+
+## Application
+
+Application Download : 
+
+- [WallArt](<a href="downloadURL" target="https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk" />)
 
 ## License
 
