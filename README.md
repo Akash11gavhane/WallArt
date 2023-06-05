@@ -44,6 +44,7 @@ This project uses the following Pexels Api for Images:
 Application Download : 
 
 - [WallArt](https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk)
+- <a href="downloadURL" target="https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk"/>
 
 ## License
 
