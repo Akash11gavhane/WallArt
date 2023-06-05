@@ -43,9 +43,8 @@ This project uses the following Pexels Api for Images:
 
 Application Download : 
 
-- [WallArt](https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk)
-- <a href="downloadURL" target="https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk"/>
+- <a href="https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk" download="Apk">WallArt</a>
 
-## License
+## License 
 
 This project is licensed under the [MIT License](LICENSE).
