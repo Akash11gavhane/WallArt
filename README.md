@@ -44,6 +44,9 @@ This project uses the following Pexels Api for Images:
 Application Download : 
 
 - <a href="https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk" download="Apk">WallArt</a>
+- <a href="https://github.com/Akash11gavhane/WallArt/blob/master/Wall_Art.apk" download>
+  <img src="/images/myw3schoolsimage.jpg" alt="WallArt">
+</a>
 
 ## License 
 
